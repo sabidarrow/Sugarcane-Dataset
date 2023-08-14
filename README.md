@@ -3,6 +3,7 @@
 The Archived zip contains 3 types of data including Bacterial Blight images, Red Rod Images and Healthy leaves Images of sugarcane. This data have been used for the Detection and Classification of sugarcane diseases.
 
 Authors and Affiliations:
+
 Md Mostafizur Rahman Komol
 School of Electrical Engineering & Robotics, Queensland University of Technology (QUT), Brisbane, Australia
 Data61 Robotics and Autonomous System Group, The Commonwealth Scientific and Industrial Research Organization (CSIRO), Pullenvale, Australia
